@@ -2,11 +2,6 @@
 
 Backend Developer with 3+ years of experience building scalable APIs, reliable backend services, and high-performance data processing flows.
 
-Jombang, Jawa Timur, Indonesia  
-Phone: +62 812 8342 2156
-Email: <fajartrengginas@gmail.com>  
-GitHub: <https://github.com/devfajar>
-
 ---
 
 ## Summary
