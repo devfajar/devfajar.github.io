@@ -1,7 +1,4 @@
 # devfajar.github.io
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
 # 👋 Hi, I'm Fajar Nur Trengginas
 
 🚀 Backend Developer with 3+ years professional experience building scalable and reliable backend systems.
