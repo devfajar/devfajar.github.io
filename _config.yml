@@ -1,3 +1,37 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
 title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+description: Backend Developer | Laravel | Golang | REST API | Performance Optimization
+
+show_downloads: false
+google_analytics:
+
+# Social media links
+social_links:
+  - name: GitHub
+    url:
+      - https://github.com/devfajar
+  - name: LinkedIn
+    url:
+      - https://www.linkedin.com/in/devfajar/
+
+# Navigation links
+nav_links:
+  - name: Home
+    url: /
+  - name: Projects
+    url: /projects/
+  - name: Blog
+    url: /blog/
+  - name: Contact
+    url: /contact/
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

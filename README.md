@@ -1,11 +1,12 @@
 # devfajar.github.io
-# 👋 Hi, I'm Fajar Nur Trengginas
+
+## 👋 Hi, I'm Fajar Nur Trengginas
 
 🚀 Backend Developer with 3+ years professional experience building scalable and reliable backend systems.
 
 📍 Indonesia  
-📧 fajartrengginas@gmail.com  
-🐙 https://github.com/devfajar  
+📧 <fajartrengginas@gmail.com>  
+🐙 <https://github.com/devfajar>  
 
 ---
 
@@ -28,21 +29,25 @@ I believe backend is not just about coding — it is about **system thinking, pe
 ## 🛠 Tech Stack
 
 ### 💻 Languages
+
 - PHP
 - Go
 - JavaScript / Typescript (Basic)
 
 ### ⚙️ Frameworks & Runtime
+
 - Laravel
 - Fiber (Go)
 - Node.js (Basic)
 
 ### 🗄 Database
+
 - MySQL
 - PostgreSQL
 - Redis (Caching)
 
 ### ☁️ Tools & Environment
+
 - Git
 - Linux
 - Docker (Learning)
@@ -79,12 +84,14 @@ I love applying:
 ## 📌 Featured Projects
 
 ### 📚 Education Platform Backend
+
 - Built scalable Laravel REST API for web, mobile, and kiosk systems
 - Implemented async job queue for exam submission processing
 - Applied Redis caching for performance improvement
 - Improved employee attendance system reliability
 
 ### 🌐 Insantadarus
+
 - Backend system using CodeIgniter 4
 - Admin dashboard development
 - Git collaboration workflow
@@ -104,8 +111,8 @@ I love applying:
 
 If you are interested in backend engineering discussions, collaboration, or opportunities:
 
-- GitHub → https://github.com/devfajar  
-- Email → fajartrengginas@gmail.com  
+- GitHub → <https://github.com/devfajar>  
+- Email → <fajartrengginas@gmail.com>  
 
 ---
 
