@@ -163,6 +163,18 @@ Key strengths:
 
 ---
 
+## Repositories from GitHub Stars
+
+Selected repositories from my GitHub Stars tab that reflect my backend learning and implementation style:
+
+- [task_management_system](https://github.com/devfajar/task_management_system): Go-based task management backend with modular project layout (`cmd/app`, `internal`, `pkg`, `configs`, `database`) and SQL-focused workflow (`sqlc.yaml`).
+- [golang-crud-layered](https://github.com/devfajar/golang-crud-layered): REST API in pure Go standard library (`net/http`) with layered architecture (Handler -> Service -> Repository), PostgreSQL, and production-ready modular structure.
+- [go-totp](https://github.com/devfajar/go-totp): Go implementation for TOTP-based authentication flow, including backend logic (`internal`, `db`) and lightweight web interface.
+- [task-tracker-js](https://github.com/devfajar/task-tracker-js): JavaScript-based task tracker project focused on simple data persistence and task state handling.
+- [student_management_system](https://github.com/devfajar/student_management_system): Student management application repository with full project structure for CRUD-style academic data management.
+
+---
+
 ## Contact
 
 - GitHub: <https://github.com/devfajar>
